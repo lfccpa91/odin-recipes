@@ -1,0 +1,19 @@
+/* style.css */
+/* <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 300 to 900 */
+
+* {
+    background-color: cornsilk;
+    font-family: "Rubik", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-size: larger;
+    color:cadetblue;
+     
+}
