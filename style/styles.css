@@ -3,17 +3,47 @@
 // <weight>: Use a value from 300 to 900 */
 
 * {
-    background-color: cornsilk;
+    background-color: rgb(163, 215, 255);
     font-family: "Rubik", sans-serif;
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(139, 0, 0);
+    padding: 8px;
+    margin: 8px;
 }
 
 h1 {
     font-weight: bold;
+    font-size: xx-large;
     text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(139, 0, 0);
+
 }
 
-li {
-    font-size: larger;
-    color:cadetblue;
-     
+h2{
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+    font-weight: lighter;
+    color: grey;
+    text-align: right;
+}
+
+.recipe {
+    margin: 8px;
+    background-color: white;
+    padding: 8px;
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+    display: inline-block;
+    width:29.9%; 
+    border: 2.5px solid rgb(19, 42, 100); 
+
+}
+
+a {
+    background-color: white;
 }
